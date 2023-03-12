@@ -1,0 +1,9 @@
+C:\Users\alexa\source\repos\SoftgenTask\SoftgenTask\bin\Debug\SoftgenTask.pdb
+C:\Users\alexa\source\repos\SoftgenTask\SoftgenTask\obj\Debug\SoftgenTask.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\SoftgenTask\SoftgenTask\obj\Debug\SoftgenTask.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\SoftgenTask\SoftgenTask\obj\Debug\SoftgenTask.pdb
+C:\Users\alexa\source\repos\SoftgenTask\SoftgenTask\bin\Debug\Databases\MainDatabase.mdf
+C:\Users\alexa\source\repos\SoftgenTask\SoftgenTask\bin\Debug\Databases\MainDatabase_log.ldf
+C:\Users\alexa\source\repos\SoftgenTask\SoftgenTask\bin\Debug\SoftgenTask.dll.config
+C:\Users\alexa\source\repos\SoftgenTask\SoftgenTask\bin\Debug\SoftgenTask.dll
+C:\Users\alexa\source\repos\SoftgenTask\SoftgenTask\obj\Debug\SoftgenTask.dll
